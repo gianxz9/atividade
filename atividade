@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+<script type "text/javascript">
+    let numMes = prompt("digite o numero do seu mes de aniversario")
+    let mes = ("Janeiro","Fevereiro","Março","Abril","Maio","junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro") 
+    alert ("voce nasceu no mes de" + mes [numMes-1])
+</script>
+</body>
+</html>
